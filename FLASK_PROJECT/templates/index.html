@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Twitter API Frontend</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>User Information</h1>
+    <div id="user-info"></div>
+    
+    <h2>Post a Tweet</h2>
+    <form id="tweet-form">
+      <input type="text" id="tweet-text" placeholder="Enter your tweet" required>
+      <button type="submit">Post Tweet</button>
+    </form>
+
+       <!-- Add a div to display the response message for posting a tweet -->
+    <div id="tweet-response">Use this id in the delete post:</div>
+    </div>
+    
+
+    <h2>Delete a Tweet</h2>
+    <form id="delete-form">
+      <input type="text" id="tweet-id" placeholder="Enter tweet ID to delete" required>
+      <button type="submit">Delete Tweet</button>
+    </form>
+    
+ 
+  <script src="/static/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+api_key="glGhEtAwN1BvZT3qj0wfMrVxO"
+api_secret="NKx7ijL4CCi8o5coPBGFUlmZytkjazdqZFLvnzSze8dPQ9U7UH"
+bearer_token="AAAAAAAAAAAAAAAAAAAAAG67tgEAAAAArOYPTOQuQYBxOT34c72a12Qflaw%3DwCrW8lUk1KLdKzHHJE9gXnQl7xLY2u3fCUMkLWLRXHRUoTNimi"
+access_token="1786949785745805312-Fpi1jrw5fz75goVBJiUeCyfzd67DUO"
+access_token_secret="tZ2G5nhMkQcnkN1sL7ESlDJdhKkx0iUdZrlMm1ZD2OLS0"
